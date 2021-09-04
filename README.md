@@ -4,8 +4,6 @@
 
 We are using the latest earthquake GeoJSON data from the US Geological Survey website to build insightful data visualizations with interactive features on earthquake data from around the world. We are using JavaScript, D3 and Leaflet libraries to traverse the data and plot the data on a mapbox map using an API request. 
 
-Access the interactive map [here].
-
 ## Process:
 Reference [index.html](https://github.com/corispade/Mapping_Earthquakes_1/blob/main/Earthquake_Challenge/index.html) and [challenge_logic.js](https://github.com/corispade/Mapping_Earthquakes_1/blob/main/Earthquake_Challenge/static/js/challenge_logic.js) for below deliverables.
 
