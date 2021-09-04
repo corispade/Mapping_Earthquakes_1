@@ -2,7 +2,9 @@
 
 # Overview
 
-Building insightful data visualizations with interactive features on earthquake data from around the world. Supporting website and mobile application development by using the latest earthquake GeoJSON data from the US Geological Survey website. Using JavaScript, D3 and Leaflet libraries to traverse the data and plot the data on a mapbox map using an API request. 
+We are using the latest earthquake GeoJSON data from the US Geological Survey website to build insightful data visualizations with interactive features on earthquake data from around the world. We are using JavaScript, D3 and Leaflet libraries to traverse the data and plot the data on a mapbox map using an API request. 
+
+Access the interactive map [here].
 
 ## Process:
 Reference [index.html](https://github.com/corispade/Mapping_Earthquakes_1/blob/main/Earthquake_Challenge/index.html) and [challenge_logic.js](https://github.com/corispade/Mapping_Earthquakes_1/blob/main/Earthquake_Challenge/static/js/challenge_logic.js) for below deliverables.
@@ -34,14 +36,21 @@ Languages: JavaScript, HTML5, CSS
 Environment: Visual Studio Code
 
 # Webpage Results:
-Layers Menu: Top right corner of the map, you can toggle between the three map types (street, satellite, and dark views). Below the map types, you can toggle on and off the tectonic plate lines, all earthquake markers, and major earthquake markers.
+View map image below for final result:
 
-Legend: Bottom right corner of the map shows the earthquake magnitude legend by color. The smaller magnitude earthquakes are in green, the larger magnitude earthquakes are in red.
+### Layers Menu: 
+Top right corner of the map, you can toggle between the three map types (street, satellite, and dark views). Below the map types, you can toggle on and off the tectonic plate lines, all earthquake markers, and major earthquake markers.
 
-Zoom: In the top left corner of th menu, you can zoom in and out of the map
+### Legend: 
+Bottom right corner of the map shows the earthquake magnitude legend by color. The smaller magnitude earthquakes are in green, the larger magnitude earthquakes are in red.
 
-Markers: The markers indicate the earthquake data. The smaller and lighter the marker, the smaller the earthquake. The larger and darker the marker, the larger the earthquake. Clik on the marker to view magnitude and location. 
+### Zoom: 
+In the top left corner of th menu, you can zoom in and out of the map
 
-Lines: The red lines indicate tectonic plate lines. Click on the lines to see the names. 
+### Markers: 
+The markers indicate the earthquake data. The smaller and lighter the marker, the smaller the earthquake. The larger and darker the marker, the larger the earthquake. Clik on the marker to view magnitude and location. 
+
+### Lines: 
+The red lines indicate tectonic plate lines. Click on the lines to see the names. 
 
 ![picture](https://github.com/corispade/Mapping_Earthquakes_1/blob/main/Earthquake_Challenge/static/images/completed_map.png)
