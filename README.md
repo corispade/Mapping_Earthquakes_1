@@ -37,16 +37,16 @@ Environment: Visual Studio Code
 View map image below for final result:
 
 ### Layers Menu: 
-Top right corner of the map, you can toggle between the three map types (street, satellite, and dark views). Below the map types, you can toggle on and off the tectonic plate lines, all earthquake markers, and major earthquake markers.
+Top right corner of the map, you can toggle between the three map types (streets, satellite, and dark views). Below the map types, you can toggle on and off the tectonic plate lines, all earthquake markers, and major earthquake markers.
 
 ### Legend: 
-Bottom right corner of the map shows the earthquake magnitude legend by color. The smaller magnitude earthquakes are in green, the larger magnitude earthquakes are in red.
+Bottom right corner of the map shows the earthquake magnitude legend by color. The smaller magnitude earthquakes are green, the larger magnitude earthquakes are red.
 
 ### Zoom: 
-In the top left corner of th menu, you can zoom in and out of the map
+In the top left corner of the menu, you can zoom in and out of the map using the + and - symbols.
 
 ### Markers: 
-The markers indicate the earthquake data. The smaller and lighter the marker, the smaller the earthquake. The larger and darker the marker, the larger the earthquake. Clik on the marker to view magnitude and location. 
+The markers indicate the earthquake data. The smaller and lighter the marker, the smaller the earthquake. The larger and darker the marker, the larger the earthquake. Click on the marker to view the earthquake magnitude and location. 
 
 ### Lines: 
 The red lines indicate tectonic plate lines. Click on the lines to see the names. 
